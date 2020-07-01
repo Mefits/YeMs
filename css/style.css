@@ -261,8 +261,10 @@ a {
   margin-right: 30px;
 }
 .footer {
-  background: #2f303a;
-  height: 251px;
+  background-color: #2f303a;
+  background-size: cover;
+  /* height: 251px; */
+  /* display: flex; */
 }
 .address {
   font-family: Roboto;
